@@ -12,10 +12,12 @@ body {
   margin: 0 auto;
 }
 .payoff-header {
-  height: 200px;
   background: url(img/payoff-header/bg.png) no-repeat center;
   background-size: cover;
   height: 752px;
+}
+.payoff-header_hospital {
+  background: url(img/payoff-header/hospital-bg.png) no-repeat center;
 }
 .payoff-header__logo {
   background: url(img/payoff-header/logo.png) no-repeat 0 0;
